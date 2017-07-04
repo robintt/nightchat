@@ -1,1 +1,1 @@
-web: node ./demo/chat.js
+web: node ./node-chat-master/demo/chat.js
