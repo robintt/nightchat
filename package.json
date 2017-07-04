@@ -5,16 +5,17 @@
   "keywords": [
     "chat"
   ],
-  "homepage": "https://github.com/scottgonzalez/node-chat",
-  "bugs": "https://github.com/scottgonzalez/node-chat/issues",
+  "homepage": "https://github.com/robintt/nightchat",
+  "bugs": "https://github.com/robintt/nightchat/issues",
   "author": {
-    "name": "Scott González",
-    "email": "scott.gonzalez@gmail.com",
-    "url": "http://scottgonzalez.com"
+    "name": "Strazak",
+    "email": "ronank@gmail.com",
+    "url": "https://nightchat.herokuapp.com/"
   },
   "main": "lib/server.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/scottgonzalez/node-chat.git"
+    "url": "git://github.com/robintt/nightchat.git
+"
   }
 }

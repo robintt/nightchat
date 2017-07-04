@@ -69,7 +69,7 @@ Installation & Demo
 
 To install:
 
-	git clone http://github.com/scottgonzalez/node-chat.git
+	git clone http://github.com/robintt/nightchat.git
 
 To run the demo:
 
@@ -80,4 +80,4 @@ Then open `http://localhost:8001` in a browser.
 License
 -------
 
-Copyright 2013 Scott González. Released under the terms of the MIT license.
+Copyright 2017 Strazak. Released under the terms of the MIT license.
